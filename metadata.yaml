@@ -1,4 +1,5 @@
-homepage: "https://stape.io/"
+homepage: 'https://stape.io/'
+documentation: 'https://github.com/stape-io/firestore-request-delay-tag'
 versions:
   - sha: 3fe53dd382a242b228da1846f75eb00169ae75fd
     changeNotes: Initial release.
